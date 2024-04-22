@@ -57,7 +57,7 @@ sudo docker-compose run web python manage.py createsuperuser
 - **Сreate Events**
   - **Method:** POST
   - **URL:** `/api/events/`
-  - **Description:** Get a list of all events.
+  - **Description:** Create new event.
   - **Permission:** Authenticated users.
     
 - **Retrieve Event Information**
